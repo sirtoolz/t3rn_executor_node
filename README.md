@@ -68,7 +68,8 @@ export NODE_ENV=testnet
 ```
 export LOG_LEVEL=debug
 export LOG_PRETTY=false
-
+export EXECUTOR_PROCESS_ORDERS=true
+export EXECUTOR_PROCESS_CLAIMS=true
 ```
 ### PRIVATE KEYS
 Set the PRIVATE_KEY_LOCAL variable of your Executor, Replace with your privatekey
