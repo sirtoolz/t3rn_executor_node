@@ -70,6 +70,8 @@ export LOG_LEVEL=debug
 export LOG_PRETTY=false
 export EXECUTOR_PROCESS_ORDERS=true
 export EXECUTOR_PROCESS_CLAIMS=true
+export EXECUTOR_MAX_L3_GAS_PRICE=50
+export EXECUTOR_PROCESS_PENDING_ORDERS_FROM_API=false
 ```
 ### PRIVATE KEYS
 Set the PRIVATE_KEY_LOCAL variable of your Executor, Replace with your privatekey
