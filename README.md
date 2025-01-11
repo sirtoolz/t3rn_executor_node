@@ -105,6 +105,9 @@ export ENABLED_NETWORKS='arbitrum-sepolia,base-sepolia,optimism-sepolia,l1rn'
 ```
 ./executor
 ```
+You can minimze the screen with CTRL+A+D
+
+To open your screen again:screen -r t3rn
 
 Take a screenshot of running node and post it on discord to get a role.
 
